@@ -57,7 +57,7 @@ I am a Front-End Developer Apprenticeship <img src="https://media.giphy.com/medi
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=montsegv-2)](https://git.io/streak-stats)
 
