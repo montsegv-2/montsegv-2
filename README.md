@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me:
 I am a Front-End Developer Apprenticeship <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from México.
 
-- :telescope:  I have been working on personal projects such as web pages and contributing to the development of mobile applications.
+- :telescope: I have been working on personal projects such as web pages and contributing to the development of mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
 
